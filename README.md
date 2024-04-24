@@ -1,10 +1,10 @@
 ### Project Name
 
-Gender Bias in Indian Divorce Cases: A 2018 Analysis
+Divorce data exploration : 2018 sessions court data
 
 ### Description
 
-This repository explores the potential gender bias in Indian divorce cases using data from Indian sessions courts for the year 2018. The analysis aims to uncover patterns or trends related to the outcomes of divorce cases based on the gender of the individuals involved.
+This repository explores the role of gender in divorce initiators and case winners in Indian divorce cases using data from Indian sessions courts for the year 2018. The analysis aims to uncover patterns or trends related to the outcomes of divorce cases based on the gender of the individuals involved.
 
 ### Background
 
